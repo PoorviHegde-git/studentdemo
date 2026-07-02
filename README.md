@@ -1,2 +1,2 @@
-# studentdemo
-hello there! this is my first repository
+this a repository
+author- ph
